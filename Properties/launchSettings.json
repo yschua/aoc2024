@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "input": {
+      "commandName": "Project",
+      "commandLineArgs": "input",
+      "workingDirectory": "$(ProjectDir)"
+    },
+    "sample": {
+      "commandName": "Project",
+      "commandLineArgs": "sample",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
